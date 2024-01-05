@@ -1,4 +1,4 @@
-### MapleJuice + SQL
+# MapleJuice + SQL
 
 ## Ruchika Biswas and Avani Puranik
 
