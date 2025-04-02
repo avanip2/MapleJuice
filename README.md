@@ -2,7 +2,7 @@
 
 ## Ruchika Biswas and Avani Puranik
 
-This repository contains our code for MP4. The files in the `mj_protocl` directory are required to run code specific to MP4, with one file that can run on all machines, which is the `main.go` file. Each machine maintains certain abilities, including automatically joining the membership group, leaving voluntarily, list its membership list, enable suspicion, and more. This goes hand in hand with the SDFS protocol, which allows nodes to complete PUT, GET, DELETE and other requests related to file transfer. Finally, each node can initiate MapleJuice tasks, as well as request basic filter and join SQL queries. Each node has the ability to locally write and add executable files for MapleJuice into SDFS for ease of execution. 
+This repository contains our code for MP4. The files in the `mj_protocol` directory are required to run code specific to MP4, with one file that can run on all machines, which is the `main.go` file. Each machine maintains certain abilities, including automatically joining the membership group, leaving voluntarily, list its membership list, enable suspicion, and more. This goes hand in hand with the SDFS protocol, which allows nodes to complete PUT, GET, DELETE and other requests related to file transfer. Finally, each node can initiate MapleJuice tasks, as well as request basic filter and join SQL queries. Each node has the ability to locally write and add executable files for MapleJuice into SDFS for ease of execution. 
 
 # How to Run the Code
 To run the server code, navigate to the `mj_protocol`.
